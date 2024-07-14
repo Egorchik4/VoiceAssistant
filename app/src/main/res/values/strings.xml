@@ -1,3 +1,7 @@
 <resources>
 	<string name="app_name">VoiceAssistant</string>
+
+	<string name="error">Error</string>
+	<string name="retry">Retry</string>
+	<string name="ready">Ready…</string>
 </resources>
